@@ -5,7 +5,7 @@ source = {
   url = "git://github.com/williford/passer.torch.git"
 }
 
-dscription = {
+description = {
   summary = "Converts GPU torch models to CPU equivalent versions",
   homepage = "https://github.com/williford/passer.torch",
   license = "MIT"
