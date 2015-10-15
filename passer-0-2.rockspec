@@ -1,14 +1,14 @@
 package = "passer"
-version = "0-1"
+version = "0-2"
 
 source = {
   url = "git://github.com/williford/passer.torch.git"
 }
 
 description = {
-  summary = "Converts GPU torch models to CPU equivalent versions",
+  summary = "Converts GPU torch models to the CPU equivalents",
   detailed =[[
-Converts GPU torch models to their CPU equivalents, for those unfortunate souls that don't have GPUs on all their development computers.
+Converts GPU torch models to the CPU equivalents, for those unfortunate souls that don't have GPUs on all their development computers.
 
 Based on code by Michael Partheil (https://groups.google.com/forum/#!topic/torch7/i8sJYlgQPeA).
   ]],
