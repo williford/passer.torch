@@ -1,5 +1,5 @@
 package = "passer"
-version = "0-2"
+version = "0.0.1-0"
 
 source = {
   url = "git://github.com/williford/passer.torch.git"
